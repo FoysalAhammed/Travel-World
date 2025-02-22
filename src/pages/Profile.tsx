@@ -1,4 +1,3 @@
-import React from 'react';
 import { Plane, Award, Target, Users, Globe, TrendingUp, Calendar, Shield, Quote } from 'lucide-react';
 
 function App() {

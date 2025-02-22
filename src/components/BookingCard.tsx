@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { FaPlane, FaCalendarAlt, FaUser, FaSearch } from 'react-icons/fa'
 import { IoAirplane } from 'react-icons/io5'
 import { useNavigate } from 'react-router-dom'

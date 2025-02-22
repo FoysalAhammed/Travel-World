@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Plane, Calendar, MapPin, Search, ArrowRight, Clock, Wallet, Shield, Users } from 'lucide-react';
 
 interface FlightSearch {

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import { FaMapMarkerAlt, FaFilter, FaStar, FaPlane, FaBed, FaCar, FaUtensils } from 'react-icons/fa'
 
 interface Destination {

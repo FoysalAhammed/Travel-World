@@ -1,4 +1,3 @@
-import React from 'react';
 import { Award, Trophy, Star, Medal, Crown, Shield, Globe } from 'lucide-react';
 
 function App() {
