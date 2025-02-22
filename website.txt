@@ -1,0 +1,39 @@
+i want to create a travel agency website for a client, the core functionality will be user can book air ticket from Bangladesh, can book hotels in Bangladesh, can book car, visa apply for any country only tourist visa, will be a check ticket option, where user can check the progress of a service by providing Reservation Number PNR or Ticket No and any other like surname, my client already have a website (https://dynamic.com.bd/) but just for show there service in Text and image based, does not have any booking functionality, i want to provide that. There main services are
+
+
+1. International Air tickets	
+2. Domestic Air Tickets in land Bangladesh	
+3. Visa Processing and assistance with support	
+4. Hotel and Accommodation ( Inland and Overseas)	
+5. Issuance of Travel / Health Insurance assistance	
+6. Travel Advice & related tips	
+7. Individual Client Profile for Officials	
+8. Meet and greet Services at Dhaka Airport	
+9. Frequent Flyer Program Enrolment	
+10. Group Tours arrangement	
+11. International and Domestic Packages	
+12. Bus Tickets ( Local )
+13. Train Tickets ( Local )
+14. Car Hire ( Local)
+15. Distribution of Airline promotional offers
+16. Home delivery on demand
+17. Weekend and Public Holiday Services
+18. Out of business hours services
+19. Implant Services on demand
+20. Any other Special Services on demand
+21. Airline –Travel Agent -Corporate Relationship
+but i want to focus on the ticket booking, hotel booking, car boking, Visa apply
+
+#Flight Booking:
+For booking flight, user can select One way, Round trip or multicity then can select From To with departure date, return date and Class, then search based on the search a new page will popup with result, how many results found which flight give better price, less price, highest price, Shortest transits etc. user can see the flight time, date, and restriction or information about bags, how many stops, how much time to land, the main price and can select class and price will update based on the class with class information, there will be filter functionality and other core features.
+
+#Hotel Booking:
+User can select City, Hotel in Bangladesh, select check in and checkout and select how many guests and how many rooms then can search for result. The result will be quite like the flight, show the user given info, show the available hotels with Name, Location, Rating, Price and information about the hotel services, there will be also a filter option to narrow down the info. Use also man modify the search form that page if user want.
+
+#Car Booking:
+Also same as hotel booking, Pickup Location select, Drop location, Date, Time then search for available cars.
+
+#Visa Apply:
+User can select which country tourist visa they need, User nationality and visa Type (Default Tourist) and can search for result, then user can see the required documents they need, Important Notice, FAQs, Price/Person and Validity days
+
+These are the core functionality for the website. What do you thing about the project and how can i achieve this initially for 0$
